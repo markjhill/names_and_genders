@@ -1,5 +1,5 @@
 # names_and_genders
-A small script which creates a historical list of forenames and genders
+A small script which creates a historical list of forenames and genders from parish records
 
 The script (gender.r) downloads data from:
 
@@ -21,7 +21,12 @@ It :
 Full credit for data collection can be found at the above webpages, but in hope of correctly attributing effort:
 
 *Wrigley, E.A. and Davies, R.S. and Oeppen, J.E. and Schofield, R.S. (2018). 26 English parish family reconstitutions. [Data Collection]. Colchester, Essex: UK Data Archive. 10.5255/UKDA-SN-853082
+
 *Newton, Gill and Baker, Philip (2007) Family Reconstitution Data (Cheapside). [Dataset]
+
 *Newton, Gill (2007) Family Reconstitution Data (Clerkenwell). [Dataset]
+
 *Newton, Gill (2007) Parish Register Data (Clerkenwell). [Dataset]
+
 *Newton, Gill and Baker, Philip (2007) Parish Register Data (Cheapside). [Dataset]
+
